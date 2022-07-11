@@ -174,6 +174,15 @@ $ open -n -a /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --ar
   - Get class limit
     - Method : `GET`
     - Endpoint : `/api/v1/class/limit`
+  - Add class
+    - Method : `POST`
+    - Endpoint : `/api/v1/add/class`
+  - Update class by id
+    - Method : `PATCH`
+    - Endpoint : `/api/v1/class/update/:id`
+  - delete class by id
+    - Method : `DELETE`
+    - Endpoint : `/api/v1/class/delete/:id`
  
 ------
 3. Gallery
