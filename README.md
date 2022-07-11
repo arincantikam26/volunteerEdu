@@ -35,8 +35,6 @@ Sebuah platform berbasis website yang mengadakan  kelas pembelajaran secara tata
 | BE2244403 | Dewi Sugianti | Backend Engineer | [dewsgnt](https://github.com/dewsgnt) |
 | FE2311163 | Muhammad Rafi Akbar | Frontend Engineer | [rafiakbar13](https://github.com/rafiakbar13) |
 | FE2306138 | Sechan Al Farisi | Frontend Engineer | [alfarisisechan](https://github.com/alfarisisechan) |
-| FE2239831 | Ni Luh Dita Oktaviari | Frontend Engineer | [ditaoktaviari](https://github.com/ditaoktaviari) |
-| FE2001900 | Dzihan Septiangraini | Frontend Engineer | [DzihanSeptiangraini](https://github.com/DzihanSeptiangraini) |
 
 ------
 
